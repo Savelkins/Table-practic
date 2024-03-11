@@ -28,3 +28,6 @@ a {
   color: #0054a8;
   text-decoration: none;
 }
+.italic{
+  font-style: italic;
+}
